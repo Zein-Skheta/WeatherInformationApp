@@ -20,6 +20,17 @@ The Weather Information App is a Java-based graphical user interface (GUI) appli
 - Internet connection for API access
 - API Key for OpenWeatherMap (replace the provided API key with your own if needed)
 
+### Installation
+
+1. Clone or download the repository:
+   git clone <repository-url>
+2. Navigate to the project directory:
+   cd WeatherInfoApp
+3. Compile the Java files:
+   javac -d bin src/weatherapp/*.java
+4. Run the application:
+   java -cp bin Main
+
 ## Configuration
 
 1. Obtain an API Key from OpenWeatherMap.
